@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\ReportingService\\ReportingService.csproj",
+      "projectUniqueName": "C:\\TraningManagementSystem\\ReportingService\\ReportingService.csproj",
       "projectName": "ReportingService",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\ReportingService\\ReportingService.csproj",
+      "projectPath": "C:\\TraningManagementSystem\\ReportingService\\ReportingService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\ReportingService\\obj\\",
+      "outputPath": "C:\\TraningManagementSystem\\ReportingService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

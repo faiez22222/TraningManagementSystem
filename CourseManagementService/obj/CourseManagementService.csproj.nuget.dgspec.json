@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\CourseManagementService\\CourseManagementService.csproj": {}
+    "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\CourseManagementService\\CourseManagementService.csproj": {
+    "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
+        "projectUniqueName": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
         "projectName": "CourseManagementService",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
+        "projectPath": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\CourseManagementService\\obj\\",
+        "outputPath": "C:\\TraningManagementSystem\\CourseManagementService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

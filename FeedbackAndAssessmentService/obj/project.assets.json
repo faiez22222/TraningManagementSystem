@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+      "projectUniqueName": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
       "projectName": "FeedbackAndAssessmentService",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+      "projectPath": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\FeedbackAndAssessmentService\\obj\\",
+      "outputPath": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

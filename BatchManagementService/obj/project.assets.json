@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
+      "projectUniqueName": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
       "projectName": "BatchManagementService",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
+      "projectPath": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\TrainingManagementSystem\\BatchManagementService\\obj\\",
+      "outputPath": "C:\\TraningManagementSystem\\BatchManagementService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
