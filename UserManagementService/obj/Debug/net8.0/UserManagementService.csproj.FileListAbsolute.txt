@@ -131,3 +131,4 @@ C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\refint\UserMan
 C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\UserManagementService.pdb
 C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\UserManagementService.genruntimeconfig.cache
 C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\ref\UserManagementService.dll
+C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\BCrypt.Net-Next.dll

@@ -9,5 +9,7 @@ namespace UserManagementService.Services
         Task<User> AddUserAsync(User user);
         Task<User> UpdateUserAsync(User user);
         Task<bool> DeleteUserAsync(int id);
+
+        User ValidateUser(string username, string password);
     }
 }

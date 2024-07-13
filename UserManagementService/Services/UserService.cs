@@ -38,5 +38,9 @@ namespace UserManagementService.Services
         {
             return await _userRepository.DeleteUserAsync(id);
         }
+        public User ValidateUser(string username , string password)
+        {
+            return _userRepository.ValidateUser(username, password);    
+        }
     }
 }

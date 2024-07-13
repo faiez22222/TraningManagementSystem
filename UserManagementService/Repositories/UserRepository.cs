@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 
 
+
 namespace UserManagementService.Repositories
 {
     public class UserRepository : IUserRepository
@@ -27,6 +28,7 @@ namespace UserManagementService.Repositories
 
         public async Task<User> AddUserAsync(User user)
         {
+            user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);  
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
             return user;
@@ -50,6 +52,14 @@ namespace UserManagementService.Repositories
             _context.Users.Remove(user);
             await _context.SaveChangesAsync();
             return true;
+        }
+        public User ValidateUser(string username, string password)
+        {
+            var user = _context.Users.FirstOrDefault(x => x.Username == username);
+            if (user == null || !BCrypt.Net.BCrypt.Verify(password, user.PasswordHash))
+                return null;
+
+            return user ;
         }
     }
 }

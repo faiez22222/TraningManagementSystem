@@ -3,7 +3,7 @@ using UserManagementService.Services;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using UserManagementService.Model;
-
+using UserManagementService.DTO;
 
 namespace UserManagementService.Controllers
 {
@@ -65,6 +65,16 @@ namespace UserManagementService.Controllers
             }
 
             return NoContent();
+        }
+        [HttpPost("validate")]
+        public IActionResult ValidateUser([FromBody] Login login)
+        {
+            User user = _userService.ValidateUser(login.username, login.password);
+            if (user==null)
+            {
+                return Unauthorized();
+            }
+            return Ok(user);
         }
     }
 }
