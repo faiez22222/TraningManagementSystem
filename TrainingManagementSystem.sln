@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginService", "LoginService\LoginService.csproj", "{0D4A88BE-5955-4B16-A28B-F06702F419D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginService", "LoginService\LoginService.csproj", "{0D4A88BE-5955-4B16-A28B-F06702F419D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementService", "CourseManagementService\CourseManagementService.csproj", "{2143D439-1082-48AF-AA20-EB733FE7030D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseManagementService", "CourseManagementService\CourseManagementService.csproj", "{2143D439-1082-48AF-AA20-EB733FE7030D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchManagementService", "BatchManagementService\BatchManagementService.csproj", "{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BatchManagementService", "BatchManagementService\BatchManagementService.csproj", "{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementService", "UserManagementService\UserManagementService.csproj", "{C4E288DC-E434-4F19-98AB-BE392F68F0EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagementService", "UserManagementService\UserManagementService.csproj", "{C4E288DC-E434-4F19-98AB-BE392F68F0EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackAndAssessmentService", "FeedbackAndAssessmentService\FeedbackAndAssessmentService.csproj", "{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FeedbackAndAssessmentService", "FeedbackAndAssessmentService\FeedbackAndAssessmentService.csproj", "{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportingService", "ReportingService\ReportingService.csproj", "{AEE88B61-E615-48CF-A1CA-370CE2041D3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportingService", "ReportingService\ReportingService.csproj", "{AEE88B61-E615-48CF-A1CA-370CE2041D3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagerService", "ManagerService\ManagerService.csproj", "{7EEE4196-A399-41C7-9BA5-833FCE5E8B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagerService", "ManagerService\ManagerService.csproj", "{7EEE4196-A399-41C7-9BA5-833FCE5E8B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginServiceUnitTesting", "LoginServiceUnitTesting\LoginServiceUnitTesting.csproj", "{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7EEE4196-A399-41C7-9BA5-833FCE5E8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEE4196-A399-41C7-9BA5-833FCE5E8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEE4196-A399-41C7-9BA5-833FCE5E8B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

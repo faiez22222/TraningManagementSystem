@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\TraningManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\logincontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\logincontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\datatransferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\datatransferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\loginserviceunittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\loginserviceunittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\repositories\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\repositories\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\datatransferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\datatransferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\repositories\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\repositories\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\usermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\usermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -85,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -110,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,149 +135,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginServiceUnitTesting",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "RelativeToolTip": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T11:44:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginControllerTest.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "RelativeToolTip": "LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:01:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UnitTest1.cs",
+              "RelativeToolTip": "LoginServiceUnitTesting\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:49:08.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
               "RelativeDocumentMoniker": "LoginService\\DataTransferObject\\User.cs",
               "ToolTip": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
               "RelativeToolTip": "LoginService\\DataTransferObject\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBEAAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T00:16:49.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Services\\IUserService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Services\\IUserService.cs",
-              "RelativeToolTip": "UserManagementService\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:16:39.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Services\\UserService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Services\\UserService.cs",
-              "RelativeToolTip": "UserManagementService\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:11:51.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserValidationClient.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
               "RelativeDocumentMoniker": "LoginService\\Services\\UserValidationClient.cs",
               "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
               "RelativeToolTip": "LoginService\\Services\\UserValidationClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T20:21:18.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "LoginService\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Controllers\\LoginController.cs",
               "RelativeToolTip": "LoginService\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T19:46:22.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LoginRepository.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
               "RelativeDocumentMoniker": "LoginService\\Repositories\\LoginRepository.cs",
               "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
               "RelativeToolTip": "LoginService\\Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDAAAABHAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T19:57:08.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "LoginService\\Model\\Login.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
+              "RelativeToolTip": "LoginService\\Model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:38:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
+              "RelativeDocumentMoniker": "LoginService\\LoginContext.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
+              "RelativeToolTip": "LoginService\\LoginContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:40:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ILogin.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\ILogin.cs",
-              "RelativeDocumentMoniker": "LoginService\\Repositories\\ILogin.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Repositories\\ILogin.cs",
-              "RelativeToolTip": "LoginService\\Repositories\\ILogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:53:30.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UserManagementService\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:43:42.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "UserManagementService\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T15:24:42.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Model\\User.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
-              "RelativeToolTip": "UserManagementService\\Model\\User.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:29:24.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAmwEQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:38:51.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LoginService.csproj",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginService.csproj",
               "RelativeDocumentMoniker": "LoginService\\LoginService.csproj",
@@ -278,7 +264,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\ILogin.cs",
+              "RelativeDocumentMoniker": "LoginService\\Repositories\\ILogin.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Repositories\\ILogin.cs",
+              "RelativeToolTip": "LoginService\\Repositories\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:53:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Services\\UserService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Services\\UserService.cs",
+              "RelativeToolTip": "UserManagementService\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Services\\IUserService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Services\\IUserService.cs",
+              "RelativeToolTip": "UserManagementService\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:16:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserManagementService\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:43:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "UserManagementService\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:24:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Model\\User.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
+              "RelativeToolTip": "UserManagementService\\Model\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:29:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwEQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:38:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\appsettings.json",
               "RelativeDocumentMoniker": "LoginService\\appsettings.json",
@@ -291,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\DTO\\Login.cs",
               "RelativeDocumentMoniker": "UserManagementService\\DTO\\Login.cs",
@@ -304,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\appsettings.json",
               "RelativeDocumentMoniker": "UserManagementService\\appsettings.json",
@@ -317,20 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
-              "RelativeDocumentMoniker": "LoginService\\Model\\Login.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
-              "RelativeToolTip": "LoginService\\Model\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:38:41.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "UserManagementService.csproj",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.csproj",
               "RelativeDocumentMoniker": "UserManagementService\\UserManagementService.csproj",
@@ -343,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "UserManagementService.http",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.http",
               "RelativeDocumentMoniker": "UserManagementService\\UserManagementService.http",
@@ -356,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Program.cs",
               "RelativeDocumentMoniker": "LoginService\\Program.cs",
@@ -369,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Program.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Program.cs",
@@ -382,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LoginService\\Controllers\\WeatherForecastController.cs",
@@ -395,20 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginContext.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
-              "RelativeDocumentMoniker": "LoginService\\LoginContext.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
-              "RelativeToolTip": "LoginService\\LoginContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:40:12.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "LoginService.http",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginService.http",
               "RelativeDocumentMoniker": "LoginService\\LoginService.http",
@@ -421,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "20240712143741_InitialCreate.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Migrations\\20240712143741_InitialCreate.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Migrations\\20240712143741_InitialCreate.cs",
@@ -434,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "UserContext.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserContext.cs",
               "RelativeDocumentMoniker": "UserManagementService\\UserContext.cs",
