@@ -6,7 +6,7 @@ using LoginService.DataTransferObject;
 
 namespace LoginService.Services
 {
-    public class UserValidationClient
+    public class UserValidationClient: IUserValidationClient
     {
         private readonly HttpClient _httpClient;
         public UserValidationClient(HttpClient httpClient)

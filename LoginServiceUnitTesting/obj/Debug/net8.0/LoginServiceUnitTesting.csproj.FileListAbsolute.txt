@@ -148,3 +148,4 @@ C:\TraningManagementSystem\LoginServiceUnitTesting\obj\Debug\net8.0\refint\Login
 C:\TraningManagementSystem\LoginServiceUnitTesting\obj\Debug\net8.0\LoginServiceUnitTesting.pdb
 C:\TraningManagementSystem\LoginServiceUnitTesting\obj\Debug\net8.0\LoginServiceUnitTesting.genruntimeconfig.cache
 C:\TraningManagementSystem\LoginServiceUnitTesting\obj\Debug\net8.0\ref\LoginServiceUnitTesting.dll
+C:\TraningManagementSystem\LoginServiceUnitTesting\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

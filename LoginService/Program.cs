@@ -34,6 +34,7 @@ builder.Services.AddAuthentication(options =>
 }
 );
 builder.Services.AddScoped<ILogin , LoginRepository>();
+builder.Services.AddScoped<IUserValidationClient, UserValidationClient>();
 builder.Services.AddHttpClient<UserValidationClient>();
 
 builder.Services.AddDbContext<LoginContext>(x =>
