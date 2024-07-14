@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtVvssQ4rzw=",
+  "dgSpecHash": "MGQw6VG+euE=",
   "success": true,
-  "projectFilePath": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\Project\\TraningManagementSystem\\UserManagementService\\UserManagementService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

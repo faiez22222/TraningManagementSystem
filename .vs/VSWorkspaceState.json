@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoginService\\Services",
+    "\\ManagerService",
+    "\\ManagerService\\Controllers",
+    "\\ManagerService\\Models"
+  ],
+  "SelectedNode": "\\ManagerService\\Models\\Batch.cs",
+  "PreviewInSolutionExplorer": false
+}

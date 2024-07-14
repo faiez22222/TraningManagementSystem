@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\Project\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
       "projectName": "CourseManagementService",
-      "projectPath": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\Project\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\TraningManagementSystem\\CourseManagementService\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\Project\\TraningManagementSystem\\CourseManagementService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
