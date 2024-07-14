@@ -298,8 +298,7 @@
               "RelativeToolTip": "UserManagementService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:35:11.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:35:11.342Z"
             },
             {
               "$type": "Document",
@@ -311,8 +310,7 @@
               "RelativeToolTip": "LoginService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:48:57.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:48:57.126Z"
             },
             {
               "$type": "Document",
@@ -324,8 +322,7 @@
               "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:38:51.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:38:51.263Z"
             },
             {
               "$type": "Document",
@@ -350,8 +347,7 @@
               "RelativeToolTip": "UserManagementService\\UserManagementService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-12T14:28:43.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:28:43.307Z"
             },
             {
               "$type": "Document",
@@ -363,8 +359,7 @@
               "RelativeToolTip": "CourseManagementService\\CourseManagementService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T19:09:59.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T19:09:59.839Z"
             },
             {
               "$type": "Document",
@@ -376,8 +371,7 @@
               "RelativeToolTip": "LoginService\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:46:22.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:46:22.358Z"
             },
             {
               "$type": "Document",
@@ -389,8 +383,7 @@
               "RelativeToolTip": "BatchManagementService\\BatchManagementService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAgwA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T06:05:35.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T06:05:35.554Z"
             },
             {
               "$type": "Document",
@@ -402,8 +395,7 @@
               "RelativeToolTip": "BatchManagementService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:48:44.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T08:48:44.451Z"
             },
             {
               "$type": "Document",
@@ -415,8 +407,7 @@
               "RelativeToolTip": "BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAowBMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:23:26.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:23:26.607Z"
             },
             {
               "$type": "Document",
@@ -428,8 +419,7 @@
               "RelativeToolTip": "BatchManagementService\\Controllers\\BatchController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:21:15.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:21:15.752Z"
             },
             {
               "$type": "Document",
@@ -441,8 +431,7 @@
               "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:18:54.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:18:54.525Z"
             },
             {
               "$type": "Document",
@@ -454,8 +443,7 @@
               "RelativeToolTip": "BatchManagementService\\Model\\BatchEnrollment.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAxwAkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T07:09:21.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T07:09:21.779Z"
             },
             {
               "$type": "Document",
@@ -467,8 +455,7 @@
               "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:13:32.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:13:32.848Z"
             },
             {
               "$type": "Document",
@@ -480,8 +467,7 @@
               "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:11:36.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:11:36.83Z"
             },
             {
               "$type": "Document",
@@ -493,8 +479,7 @@
               "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:10:21.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:10:21.242Z"
             },
             {
               "$type": "Document",
@@ -506,8 +491,7 @@
               "RelativeToolTip": "BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:02:07.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:02:07.54Z"
             },
             {
               "$type": "Document",
@@ -519,8 +503,7 @@
               "RelativeToolTip": "CourseManagementService\\Migrations\\20240714002420_UpdateModels.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T00:24:21.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T00:24:21.15Z"
             },
             {
               "$type": "Document",
@@ -532,8 +515,7 @@
               "RelativeToolTip": "CourseManagementService\\Migrations\\20240713214601_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:46:01.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:46:01.905Z"
             },
             {
               "$type": "Document",
@@ -545,8 +527,7 @@
               "RelativeToolTip": "BatchManagementService\\Model\\Batch.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T06:08:29.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T06:08:29.509Z"
             },
             {
               "$type": "Document",
@@ -558,8 +539,7 @@
               "RelativeToolTip": "BatchManagementService\\BatchManagementContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:43:03.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T08:43:03.292Z"
             },
             {
               "$type": "Document",
@@ -571,8 +551,7 @@
               "RelativeToolTip": "LoginService\\Model\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:38:41.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:38:41.521Z"
             },
             {
               "$type": "Document",
@@ -584,8 +563,7 @@
               "RelativeToolTip": "LoginService\\LoginService.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-12T17:42:25.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:42:25.66Z"
             },
             {
               "$type": "Document",
@@ -597,8 +575,7 @@
               "RelativeToolTip": "UserManagementService\\UserManagementService.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-12T20:30:00.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T20:30:00.914Z"
             },
             {
               "$type": "Document",
@@ -610,8 +587,7 @@
               "RelativeToolTip": "UserManagementService\\Model\\User.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:29:24.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:29:24.695Z"
             },
             {
               "$type": "Document",
@@ -623,8 +599,7 @@
               "RelativeToolTip": "CourseManagementService\\Controllers\\CourseCalendarController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:40:51.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:40:51.441Z"
             },
             {
               "$type": "Document",
@@ -636,8 +611,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowBAAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:05:47.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:05:47.312Z"
             },
             {
               "$type": "Document",
@@ -649,8 +623,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:57:16.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:57:16.906Z"
             },
             {
               "$type": "Document",
@@ -662,8 +635,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:59:07.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:59:07.835Z"
             },
             {
               "$type": "Document",
@@ -675,8 +647,7 @@
               "RelativeToolTip": "CourseManagementService\\Controllers\\DailyTaskController.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAowAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:43:36.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:43:36.423Z"
             },
             {
               "$type": "Document",
@@ -688,8 +659,7 @@
               "RelativeToolTip": "CourseManagementService\\CourseManagementContext.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAwwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:08:15.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:08:15.919Z"
             },
             {
               "$type": "Document",
@@ -701,8 +671,7 @@
               "RelativeToolTip": "CourseManagementService\\Model\\DailyTask.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:02:01.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:02:01.318Z"
             },
             {
               "$type": "Document",
@@ -714,8 +683,7 @@
               "RelativeToolTip": "CourseManagementService\\Model\\CourseCalendar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T20:57:55.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T20:57:55.559Z"
             },
             {
               "$type": "Document",
@@ -727,8 +695,7 @@
               "RelativeToolTip": "CourseManagementService\\Model\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T20:52:39.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T20:52:39.777Z"
             },
             {
               "$type": "Document",
@@ -740,8 +707,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAwwBUAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:11:53.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:11:53.71Z"
             },
             {
               "$type": "Document",
@@ -753,8 +719,7 @@
               "RelativeToolTip": "CourseManagementService\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:33:35.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:33:35.479Z"
             },
             {
               "$type": "Document",
@@ -766,8 +731,7 @@
               "RelativeToolTip": "CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T23:50:42.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T23:50:42.709Z"
             },
             {
               "$type": "Document",
@@ -779,8 +743,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:24:59.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:24:59.962Z"
             },
             {
               "$type": "Document",
@@ -792,8 +755,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:26:08.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:26:08.858Z"
             },
             {
               "$type": "Document",
@@ -805,8 +767,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:00:50.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:00:50.016Z"
             },
             {
               "$type": "Document",
@@ -818,8 +779,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:23:33.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:23:33.269Z"
             },
             {
               "$type": "Document",
@@ -831,8 +791,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:22:43.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:22:43.527Z"
             },
             {
               "$type": "Document",
@@ -844,8 +803,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\CourseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:21:02.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:21:02.051Z"
             },
             {
               "$type": "Document",
@@ -857,8 +815,7 @@
               "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\ICourseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:19:54.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T22:19:54.88Z"
             },
             {
               "$type": "Document",
@@ -870,8 +827,7 @@
               "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:53:12.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T21:53:12.031Z"
             },
             {
               "$type": "Document",
@@ -883,8 +839,7 @@
               "RelativeToolTip": "LoginServiceUnitTesting\\UserValidationClientTest.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAwwEsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T18:49:22.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T18:49:22.059Z"
             },
             {
               "$type": "Document",
@@ -896,8 +851,7 @@
               "RelativeToolTip": "LoginServiceUnitTesting\\LoginRepositoryTests.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAuwCUAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:31:26.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T12:31:26.416Z"
             },
             {
               "$type": "Document",
@@ -909,8 +863,7 @@
               "RelativeToolTip": "LoginService\\Services\\UserValidationClient.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAwBoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T20:21:18.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T20:21:18.394Z"
             },
             {
               "$type": "Document",
@@ -922,8 +875,7 @@
               "RelativeToolTip": "LoginService\\Services\\IUserValidationClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T13:43:19.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T13:43:19.129Z"
             },
             {
               "$type": "Document",
@@ -935,8 +887,7 @@
               "RelativeToolTip": "LoginService\\LoginContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:40:12.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:40:12.191Z"
             },
             {
               "$type": "Document",
@@ -948,8 +899,7 @@
               "RelativeToolTip": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T11:44:04.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T11:44:04.39Z"
             },
             {
               "$type": "Document",
@@ -961,8 +911,7 @@
               "RelativeToolTip": "LoginService\\Repositories\\LoginRepository.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAwwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:57:08.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:57:08.715Z"
             },
             {
               "$type": "Document",
@@ -974,8 +923,7 @@
               "RelativeToolTip": "LoginService\\DataTransferObject\\User.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T00:16:49.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T00:16:49.956Z"
             },
             {
               "$type": "Document",
@@ -987,8 +935,7 @@
               "RelativeToolTip": "LoginServiceUnitTesting\\LoginControllerTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAOBvwC0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T11:01:19.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T11:01:19.206Z"
             },
             {
               "$type": "Document",
@@ -1000,8 +947,7 @@
               "RelativeToolTip": "LoginService\\LoginService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-12T17:39:53.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:39:53.752Z"
             },
             {
               "$type": "Document",
@@ -1013,8 +959,7 @@
               "RelativeToolTip": "LoginService\\Repositories\\ILogin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:53:30.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:53:30.7Z"
             },
             {
               "$type": "Document",
@@ -1026,8 +971,7 @@
               "RelativeToolTip": "UserManagementService\\Services\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:11:51.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:11:51.608Z"
             },
             {
               "$type": "Document",
@@ -1039,8 +983,7 @@
               "RelativeToolTip": "UserManagementService\\Services\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:16:39.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T19:16:39.183Z"
             },
             {
               "$type": "Document",
@@ -1052,8 +995,7 @@
               "RelativeToolTip": "UserManagementService\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAIwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:43:42.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:43:42.38Z"
             },
             {
               "$type": "Document",
@@ -1065,8 +1007,7 @@
               "RelativeToolTip": "UserManagementService\\Repositories\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T15:24:42.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T15:24:42.176Z"
             },
             {
               "$type": "Document",
@@ -1078,8 +1019,7 @@
               "RelativeToolTip": "LoginService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-12T22:31:11.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T22:31:11.803Z"
             },
             {
               "$type": "Document",
@@ -1091,8 +1031,7 @@
               "RelativeToolTip": "UserManagementService\\DTO\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T23:41:40.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T23:41:40.531Z"
             },
             {
               "$type": "Document",
@@ -1104,8 +1043,7 @@
               "RelativeToolTip": "UserManagementService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-12T23:56:55.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T23:56:55.226Z"
             },
             {
               "$type": "Document",
@@ -1117,8 +1055,7 @@
               "RelativeToolTip": "LoginService\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:55:44.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:55:44.803Z"
             },
             {
               "$type": "Document",
@@ -1130,8 +1067,7 @@
               "RelativeToolTip": "UserManagementService\\Migrations\\20240712143741_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:37:41.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:37:41.963Z"
             },
             {
               "$type": "Document",
@@ -1143,8 +1079,7 @@
               "RelativeToolTip": "UserManagementService\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:30:44.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:30:44.046Z"
             }
           ]
         }
