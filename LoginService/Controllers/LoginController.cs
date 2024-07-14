@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using LoginService.Model;
 using LoginService.Repositories;
+using Microsoft.AspNetCore.Cors;
 
 namespace LoginService.Controllers
 {
@@ -15,6 +16,7 @@ namespace LoginService.Controllers
             _loginrepo = loginRepository;
         }
         [HttpPost]
+        [EnableCors]
         public async Task<IActionResult> Login([FromBody] Login login)
         {
             var tokenString = await _loginrepo.LoginUser(login);
