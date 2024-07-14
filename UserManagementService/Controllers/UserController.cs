@@ -18,6 +18,10 @@ namespace UserManagementService.Controllers
             _userService = userService;
         }
 
+        /// <summary>
+        /// Retrieves all users.
+        /// </summary>
+        /// <returns>A list of users.</returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
@@ -25,6 +29,11 @@ namespace UserManagementService.Controllers
             return Ok(users);
         }
 
+        /// <summary>
+        /// Retrieves a specific user by unique id.
+        /// </summary>
+        /// <param name="id">The ID of the user to retrieve.</param>
+        /// <returns>The requested user.</returns>
         [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUser(int id)
         {
@@ -36,6 +45,11 @@ namespace UserManagementService.Controllers
             return Ok(user);
         }
 
+        /// <summary>
+        /// Creates a new user.
+        /// </summary>
+        /// <param name="user">The user to create.</param>
+        /// <returns>The created user.</returns>
         [HttpPost]
         public async Task<ActionResult<User>> PostUser(User user)
         {
@@ -43,6 +57,12 @@ namespace UserManagementService.Controllers
             return CreatedAtAction(nameof(GetUser), new { id = createdUser.UserID }, createdUser);
         }
 
+        /// <summary>
+        /// Updates an existing user.
+        /// </summary>
+        /// <param name="id">The ID of the user to update.</param>
+        /// <param name="user">The updated user object.</param>
+        /// <returns>No content if successful.</returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUser(int id, User user)
         {
@@ -55,6 +75,11 @@ namespace UserManagementService.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Deletes a specific user by unique id.
+        /// </summary>
+        /// <param name="id">The ID of the user to delete.</param>
+        /// <returns>No content if successful.</returns>
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUser(int id)
         {
@@ -66,11 +91,17 @@ namespace UserManagementService.Controllers
 
             return NoContent();
         }
+
+        /// <summary>
+        /// Validates a user based on username and password.
+        /// </summary>
+        /// <param name="login">The login details.</param>
+        /// <returns>The validated user.</returns>
         [HttpPost("validate")]
         public IActionResult ValidateUser([FromBody] Login login)
         {
             User user = _userService.ValidateUser(login.username, login.password);
-            if (user==null)
+            if (user == null)
             {
                 return Unauthorized();
             }

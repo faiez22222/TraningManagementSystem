@@ -132,3 +132,8 @@ C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\UserManagement
 C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\UserManagementService.genruntimeconfig.cache
 C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\ref\UserManagementService.dll
 C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TraningManagementSystem\UserManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TraningManagementSystem\UserManagementService\obj\Debug\net8.0\UserManagementService.MvcApplicationPartsAssemblyInfo.cs
