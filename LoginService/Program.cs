@@ -34,7 +34,18 @@ builder.Services.AddAuthentication(options =>
 }
 );
 builder.Services.AddScoped<ILogin , LoginRepository>();
+builder.Services.AddScoped<IUserValidationClient, UserValidationClient>();
 builder.Services.AddHttpClient<UserValidationClient>();
+builder.Services.AddCors(option =>
+{
+    option.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyHeader();
+            builder.AllowAnyMethod();
+            builder.AllowAnyOrigin();
+        });
+});
 
 builder.Services.AddDbContext<LoginContext>(x =>
 x.UseSqlServer("data source=DESKTOP-TIC5DM4\\SQLEXPRESS;Database=UserManagementDB;Integrated Security=SSPI ; TrustServerCertificate=True;"));
@@ -43,6 +54,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 
 app.UseAuthorization();
+app.UseCors("AllowAll");
+
 app.UseAuthentication();
 
 app.MapControllers();

@@ -11,9 +11,9 @@ namespace LoginService.Repositories
     public class LoginRepository : ILogin
     {
         private LoginContext _context;
-        private UserValidationClient _userValidationClient;
+        private IUserValidationClient _userValidationClient;
         private readonly IConfiguration _configuration;
-        public LoginRepository(LoginContext context, UserValidationClient userValidationClient, IConfiguration configuration)
+        public LoginRepository(LoginContext context, IUserValidationClient userValidationClient, IConfiguration configuration)
         {
             _context = context;
             _userValidationClient = userValidationClient;
