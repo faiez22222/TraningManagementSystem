@@ -131,3 +131,8 @@ C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\runtimes\win\
 C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\TraningManagementSystem\BatchManagementService\obj\Debug\net8.0\BatchManagementService.csproj.AssemblyReference.cache
 C:\TraningManagementSystem\BatchManagementService\obj\Debug\net8.0\BatchMan.9DB34D4A.Up2Date
+C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TraningManagementSystem\BatchManagementService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TraningManagementSystem\BatchManagementService\obj\Debug\net8.0\BatchManagementService.MvcApplicationPartsAssemblyInfo.cs

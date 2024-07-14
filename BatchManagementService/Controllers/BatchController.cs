@@ -18,12 +18,21 @@ namespace BatchManagementService.Controllers
             _batchRepository = batchRepository;
         }
 
+        /// <summary>
+        /// Gets all batches.
+        /// </summary>
+        /// <returns>A list of batches.</returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Batch>>> GetBatches()
         {
             return Ok(await _batchRepository.GetBatchesAsync());
         }
 
+        /// <summary>
+        /// Gets a specific batch by ID.
+        /// </summary>
+        /// <param name="id">The ID of the batch to retrieve.</param>
+        /// <returns>The requested batch.</returns>
         [HttpGet("{id}")]
         public async Task<ActionResult<Batch>> GetBatch(int id)
         {
@@ -35,6 +44,11 @@ namespace BatchManagementService.Controllers
             return Ok(batch);
         }
 
+        /// <summary>
+        /// Creates a new batch.
+        /// </summary>
+        /// <param name="batch">The batch to create.</param>
+        /// <returns>The created batch.</returns>
         [HttpPost]
         public async Task<ActionResult<Batch>> PostBatch(Batch batch)
         {
@@ -42,6 +56,12 @@ namespace BatchManagementService.Controllers
             return CreatedAtAction(nameof(GetBatch), new { id = createdBatch.Id }, createdBatch);
         }
 
+        /// <summary>
+        /// Updates an existing batch.
+        /// </summary>
+        /// <param name="id">The ID of the batch to update.</param>
+        /// <param name="batch">The updated batch data.</param>
+        /// <returns>No content if successful.</returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutBatch(int id, Batch batch)
         {
@@ -53,6 +73,11 @@ namespace BatchManagementService.Controllers
             return NoContent();
         }
 
+        /// <summary>
+        /// Deletes a specific batch by ID.
+        /// </summary>
+        /// <param name="id">The ID of the batch to delete.</param>
+        /// <returns>No content if successful.</returns>
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBatch(int id)
         {
