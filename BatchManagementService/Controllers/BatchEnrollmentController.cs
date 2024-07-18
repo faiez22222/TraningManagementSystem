@@ -1,5 +1,6 @@
 ﻿using BatchManagementService.Model;
 using BatchManagementService.Repositories;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace BatchManagementService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class BatchEnrollmentController : ControllerBase
     {
         private readonly IBatchEnrollmentRepository _batchEnrollmentRepository;

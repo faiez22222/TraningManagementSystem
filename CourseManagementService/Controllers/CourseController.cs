@@ -2,6 +2,7 @@
 using CourseManagementService.Services.CourseCalendarService;
 using CourseManagementService.Services.CourseService;
 using CourseManagementService.Services.DailyTaskService;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,6 +11,7 @@ namespace CourseManagementService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class CourseController : ControllerBase
     {
         private readonly ICourseService _courseService;

@@ -1,5 +1,6 @@
 ﻿using CourseManagementService.Model;
 using CourseManagementService.Services.CourseCalendarService;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace CourseManagementService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class CourseCalendarController : ControllerBase
     {
         private readonly ICourseCalendarService _courseCalendarService;

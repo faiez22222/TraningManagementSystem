@@ -19,6 +19,8 @@ namespace CourseManagementService.Services.CourseCalendarService
 
         public async Task AddCourseCalendarAsync(CourseCalendar courseCalendar)
         {
+            int batchCount = await _courseCalendarRepository.GetBatchCountAsync(courseCalendar.CourseId);
+            courseCalendar.BatchName = $"Batch-{batchCount + 1}";
             await _courseCalendarRepository.AddCourseCalendarAsync(courseCalendar);
         }
 
@@ -30,6 +32,11 @@ namespace CourseManagementService.Services.CourseCalendarService
         public async Task DeleteCourseCalendarAsync(int id)
         {
             await _courseCalendarRepository.DeleteCourseCalendarAsync(id);
+        }
+
+        public async Task<int> GetBatchCountAsync(int courseId)
+        {
+            return await _courseCalendarRepository.GetBatchCountAsync(courseId);
         }
     }
 }

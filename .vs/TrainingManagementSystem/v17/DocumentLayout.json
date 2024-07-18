@@ -3,12 +3,156 @@
   "WorkspaceRootPath": "C:\\TraningManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\usermanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\usermanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\dailytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\dailytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\coursecalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\coursecalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\courserepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\courserepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\courserepository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\courserepository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\coursecalendarservice\\coursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\coursecalendarservice\\coursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\coursecalendarrepository\\coursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\coursecalendarrepository\\coursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\coursecalendarservice\\icoursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\coursecalendarservice\\icoursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\coursecalendarrepository\\icoursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\coursecalendarrepository\\icoursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\coursecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\coursecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\rrepositories\\batchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\rrepositories\\batchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\controllers\\batchenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\controllers\\batchenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\model\\batchenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\model\\batchenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\dailytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\dailytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\usermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\usermanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\coursemanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\coursemanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\migrations\\20240715194235_updatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\migrations\\20240715194235_updatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\batchmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\batchmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\iuservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\iuservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|c:\\traningmanagementsystem\\feedbackandassessmentservice\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,56 +179,16 @@
       "RelativeMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|solutionrelative:feedbackandassessmentservice\\feedbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|c:\\traningmanagementsystem\\feedbackandassessmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|solutionrelative:feedbackandassessmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|c:\\traningmanagementsystem\\feedbackandassessmentservice\\feedbackandassessmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C98BBE4D-784A-42CC-8B6C-F5E82E17CDCB}|FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj|solutionrelative:feedbackandassessmentservice\\feedbackandassessmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\coursemanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\coursemanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\batchmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\batchmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\controllers\\batchenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\controllers\\batchenrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\model\\batchenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\model\\batchenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\rrepositories\\batchenrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,96 +199,24 @@
       "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\rrepositories\\ibatchenrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\rrepositories\\batchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\rrepositories\\batchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\rrepositories\\ibatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\rrepositories\\ibatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\batchmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\batchmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\migrations\\20240714002420_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\migrations\\20240714002420_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\migrations\\20240713214601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\migrations\\20240713214601_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|c:\\traningmanagementsystem\\batchmanagementservice\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D09BE2-F592-4FAE-9A4A-78F4D20E55C4}|BatchManagementService\\BatchManagementService.csproj|solutionrelative:batchmanagementservice\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\coursecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\coursecalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|c:\\traningmanagementsystem\\usermanagementservice\\usermanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C4E288DC-E434-4F19-98AB-BE392F68F0EA}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\usermanagementservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\loginservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\coursecalendarrepository\\coursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\coursecalendarrepository\\coursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\coursecalendarrepository\\icoursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\coursecalendarrepository\\icoursecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\dailytaskrepository\\idailytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\dailytaskrepository\\idailytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\dailytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\dailytaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\dailytaskrepository\\dailytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\dailytaskrepository\\dailytaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\coursemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\dailytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\dailytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\coursecalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\coursecalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\migrations\\coursemanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\migrations\\coursemanagementcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\courserepository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\courserepository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\dailytaskservice\\dailytaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,14 +227,6 @@
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\dailytaskservice\\idailytaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\coursecalendarservice\\coursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\coursecalendarservice\\coursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\coursecalendarservice\\icoursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\coursecalendarservice\\icoursecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\services\\courseservice\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\courseservice\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -211,24 +235,12 @@
       "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\services\\courseservice\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|c:\\traningmanagementsystem\\coursemanagementservice\\repositories\\courserepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2143D439-1082-48AF-AA20-EB733FE7030D}|CourseManagementService\\CourseManagementService.csproj|solutionrelative:coursemanagementservice\\repositories\\courserepository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\uservalidationclienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\uservalidationclienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\uservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\loginserviceunittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\loginserviceunittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\services\\iuservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\services\\iuservalidationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\loginrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,16 +251,8 @@
       "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|c:\\traningmanagementsystem\\loginserviceunittesting\\logincontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF5A0ADA-DC4B-434F-9F98-D940E9118E18}|LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj|solutionrelative:loginserviceunittesting\\logincontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|solutionrelative:loginservice\\loginservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4A88BE-5955-4B16-A28B-F06702F419D2}|LoginService\\LoginService.csproj|c:\\traningmanagementsystem\\loginservice\\datatransferobject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -314,7 +318,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -325,73 +329,359 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:53:12.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UserManagementService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UserManagementService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T03:57:19.596Z",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Model\\Course.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\Course.cs",
+              "RelativeToolTip": "CourseManagementService\\Model\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:52:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseCalendarRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:05:47.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAIAAAA",
+              "Title": "CourseCalendar.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\CourseCalendar.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Model\\CourseCalendar.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\CourseCalendar.cs",
+              "RelativeToolTip": "CourseManagementService\\Model\\CourseCalendar.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA9wAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:57:40.713Z"
+              "WhenOpened": "2024-07-13T20:57:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyTask.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\DailyTask.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Model\\DailyTask.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\DailyTask.cs",
+              "RelativeToolTip": "CourseManagementService\\Model\\DailyTask.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:02:01.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseCalendarService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:22:43.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementService.http",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.http",
+              "RelativeDocumentMoniker": "UserManagementService\\UserManagementService.http",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.http",
+              "RelativeToolTip": "UserManagementService\\UserManagementService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-12T20:30:00.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseCalendarService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:23:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240717134359_addedBatchName.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs",
+              "RelativeToolTip": "CourseManagementService\\Migrations\\20240717134359_addedBatchName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:43:59.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:00:50.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ICourseCalendarRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:57:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseManagementContext.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementContext.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\CourseManagementContext.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementContext.cs",
+              "RelativeToolTip": "CourseManagementService\\CourseManagementContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:08:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseCalendarController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseCalendarController.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\CourseCalendarController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseCalendarController.cs",
+              "RelativeToolTip": "CourseManagementService\\Controllers\\CourseCalendarController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:40:51.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Program.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Program.cs",
               "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Program.cs",
               "RelativeToolTip": "UserManagementService\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:35:11.342Z"
+              "WhenOpened": "2024-07-12T14:35:11.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IFeedbackRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Program.cs",
+              "RelativeDocumentMoniker": "LoginService\\Program.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Program.cs",
+              "RelativeToolTip": "LoginService\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:46:39.909Z"
+              "WhenOpened": "2024-07-12T17:48:57.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Feedbackrepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:47:17.496Z"
+              "WhenOpened": "2024-07-12T14:38:51.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
+              "Title": "BatchRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchRepository.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\BatchRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchRepository.cs",
+              "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:11:36.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BatchEnrollment.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\BatchEnrollment.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Model\\BatchEnrollment.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\BatchEnrollment.cs",
+              "RelativeToolTip": "BatchManagementService\\Model\\BatchEnrollment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:09:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Model\\User.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
+              "RelativeToolTip": "UserManagementService\\Model\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:29:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Program.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Program.cs",
+              "RelativeToolTip": "CourseManagementService\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:39:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Program.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Program.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Program.cs",
+              "RelativeToolTip": "BatchManagementService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:48:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BatchEnrollmentController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
+              "RelativeToolTip": "BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwFEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:23:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Controllers\\BatchController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "BatchManagementService\\Controllers\\BatchController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:21:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240717083510_UpdateCoirseCalendar.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs",
+              "RelativeToolTip": "BatchManagementService\\Migrations\\20240717083510_UpdateCoirseCalendar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:35:10.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\Batch.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Model\\Batch.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\Batch.cs",
+              "RelativeToolTip": "BatchManagementService\\Model\\Batch.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:08:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DailyTaskController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\DailyTaskController.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\DailyTaskController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\DailyTaskController.cs",
+              "RelativeToolTip": "CourseManagementService\\Controllers\\DailyTaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:43:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseManagementService\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:33:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "UserManagementService.csproj",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.csproj",
               "RelativeDocumentMoniker": "UserManagementService\\UserManagementService.csproj",
@@ -404,129 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FeedbackDto.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:23:19.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\Feedback.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Model\\Feedback.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\Feedback.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Model\\Feedback.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:34:56.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Program.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Program.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Program.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:59:29.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "20240714191206_InitislCreate.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:12:07.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UserManagementService\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:38:51.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FeedbackContext.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackContext.cs",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\FeedbackContext.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackContext.cs",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\FeedbackContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:37:25.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FeedbackAndAssessmentService.csproj",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
-              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
-              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
-              "RelativeToolTip": "FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T18:32:30.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Program.cs",
-              "RelativeDocumentMoniker": "LoginService\\Program.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Program.cs",
-              "RelativeToolTip": "LoginService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:48:57.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Program.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Program.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Program.cs",
-              "RelativeToolTip": "CourseManagementService\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:39:29.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CourseManagementService.csproj",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
-              "RelativeDocumentMoniker": "CourseManagementService\\CourseManagementService.csproj",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.csproj",
-              "RelativeToolTip": "CourseManagementService\\CourseManagementService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T19:09:59.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "LoginService\\Controllers\\LoginController.cs",
@@ -534,577 +702,12 @@
               "RelativeToolTip": "LoginService\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:46:22.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BatchManagementService.csproj",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
-              "RelativeDocumentMoniker": "BatchManagementService\\BatchManagementService.csproj",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
-              "RelativeToolTip": "BatchManagementService\\BatchManagementService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T06:05:35.554Z",
+              "WhenOpened": "2024-07-12T19:46:22.358Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Program.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Program.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Program.cs",
-              "RelativeToolTip": "BatchManagementService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:48:44.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BatchEnrollmentController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
-              "RelativeToolTip": "BatchManagementService\\Controllers\\BatchEnrollmentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAowBMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:23:26.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BatchController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchController.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Controllers\\BatchController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Controllers\\BatchController.cs",
-              "RelativeToolTip": "BatchManagementService\\Controllers\\BatchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:21:15.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BatchEnrollmentRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
-              "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:18:54.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BatchEnrollment.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\BatchEnrollment.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Model\\BatchEnrollment.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\BatchEnrollment.cs",
-              "RelativeToolTip": "BatchManagementService\\Model\\BatchEnrollment.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAxwAkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T07:09:21.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IBatchEnrollmentRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
-              "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:13:32.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BatchRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchRepository.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\BatchRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchRepository.cs",
-              "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:11:36.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IBatchRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchRepository.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\IBatchRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchRepository.cs",
-              "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:10:21.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "20240714090207_Initial-Create.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
-              "RelativeToolTip": "BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:02:07.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20240714002420_UpdateModels.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240714002420_UpdateModels.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\20240714002420_UpdateModels.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240714002420_UpdateModels.cs",
-              "RelativeToolTip": "CourseManagementService\\Migrations\\20240714002420_UpdateModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T00:24:21.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20240713214601_InitialCreate.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240713214601_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\20240713214601_InitialCreate.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240713214601_InitialCreate.cs",
-              "RelativeToolTip": "CourseManagementService\\Migrations\\20240713214601_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:46:01.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Batch.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\Batch.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\Model\\Batch.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Model\\Batch.cs",
-              "RelativeToolTip": "BatchManagementService\\Model\\Batch.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T06:08:29.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BatchManagementContext.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementContext.cs",
-              "RelativeDocumentMoniker": "BatchManagementService\\BatchManagementContext.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementContext.cs",
-              "RelativeToolTip": "BatchManagementService\\BatchManagementContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:43:03.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
-              "RelativeDocumentMoniker": "LoginService\\Model\\Login.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
-              "RelativeToolTip": "LoginService\\Model\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:38:41.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LoginService.http",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginService.http",
-              "RelativeDocumentMoniker": "LoginService\\LoginService.http",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginService.http",
-              "RelativeToolTip": "LoginService\\LoginService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-12T17:42:25.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserManagementService.http",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.http",
-              "RelativeDocumentMoniker": "UserManagementService\\UserManagementService.http",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\UserManagementService.http",
-              "RelativeToolTip": "UserManagementService\\UserManagementService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-12T20:30:00.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
-              "RelativeDocumentMoniker": "UserManagementService\\Model\\User.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Model\\User.cs",
-              "RelativeToolTip": "UserManagementService\\Model\\User.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:29:24.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CourseCalendarController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseCalendarController.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\CourseCalendarController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseCalendarController.cs",
-              "RelativeToolTip": "CourseManagementService\\Controllers\\CourseCalendarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:40:51.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CourseCalendarRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\CourseCalendarRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBAAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:05:47.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICourseCalendarRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseCalendarRepository\\ICourseCalendarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:57:16.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IDailyTaskRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:59:07.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DailyTaskController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\DailyTaskController.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\DailyTaskController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\DailyTaskController.cs",
-              "RelativeToolTip": "CourseManagementService\\Controllers\\DailyTaskController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAowAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:43:36.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CourseManagementContext.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementContext.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\CourseManagementContext.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementContext.cs",
-              "RelativeToolTip": "CourseManagementService\\CourseManagementContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:08:15.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DailyTask.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\DailyTask.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Model\\DailyTask.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\DailyTask.cs",
-              "RelativeToolTip": "CourseManagementService\\Model\\DailyTask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:02:01.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CourseCalendar.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\CourseCalendar.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Model\\CourseCalendar.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\CourseCalendar.cs",
-              "RelativeToolTip": "CourseManagementService\\Model\\CourseCalendar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T20:57:55.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Model\\Course.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Model\\Course.cs",
-              "RelativeToolTip": "CourseManagementService\\Model\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T20:52:39.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DailyTaskRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwBUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:11:53.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "CourseManagementService\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:33:35.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CourseManagementContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
-              "RelativeToolTip": "CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T23:50:42.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IDailyTaskService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:24:59.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "DailyTaskService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:26:08.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\CourseRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:00:50.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "CourseCalendarService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\CourseCalendarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:23:33.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ICourseCalendarService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\CourseCalendarService\\ICourseCalendarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:22:43.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\CourseService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseService\\CourseService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\CourseService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\CourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:21:02.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\ICourseService.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseService\\ICourseService.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\ICourseService.cs",
-              "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\ICourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:19:54.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
-              "RelativeToolTip": "CourseManagementService\\Repositories\\CourseRepository\\ICourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T21:53:12.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "UserValidationClientTest.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UserValidationClientTest.cs",
-              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\UserValidationClientTest.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UserValidationClientTest.cs",
-              "RelativeToolTip": "LoginServiceUnitTesting\\UserValidationClientTest.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAwwEsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T18:49:22.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "LoginRepositoryTests.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginRepositoryTests.cs",
-              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginRepositoryTests.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginRepositoryTests.cs",
-              "RelativeToolTip": "LoginServiceUnitTesting\\LoginRepositoryTests.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T12:31:26.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "UserValidationClient.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
-              "RelativeDocumentMoniker": "LoginService\\Services\\UserValidationClient.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
-              "RelativeToolTip": "LoginService\\Services\\UserValidationClient.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwBoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T20:21:18.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "IUserValidationClient.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Services\\IUserValidationClient.cs",
-              "RelativeDocumentMoniker": "LoginService\\Services\\IUserValidationClient.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Services\\IUserValidationClient.cs",
-              "RelativeToolTip": "LoginService\\Services\\IUserValidationClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T13:43:19.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "LoginContext.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
-              "RelativeDocumentMoniker": "LoginService\\LoginContext.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
-              "RelativeToolTip": "LoginService\\LoginContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T17:40:12.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "LoginServiceUnitTesting.csproj",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
-              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
-              "RelativeToolTip": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T11:44:04.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "LoginRepository.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
-              "RelativeDocumentMoniker": "LoginService\\Repositories\\LoginRepository.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
-              "RelativeToolTip": "LoginService\\Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAwwEAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T19:57:08.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
-              "RelativeDocumentMoniker": "LoginService\\DataTransferObject\\User.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
-              "RelativeToolTip": "LoginService\\DataTransferObject\\User.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T00:16:49.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "LoginControllerTest.cs",
-              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
-              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginControllerTest.cs",
-              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
-              "RelativeToolTip": "LoginServiceUnitTesting\\LoginControllerTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAOBvwC0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T11:01:19.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
               "Title": "LoginService.csproj",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginService.csproj",
               "RelativeDocumentMoniker": "LoginService\\LoginService.csproj",
@@ -1117,7 +720,450 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CourseManagementService.http",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.http",
+              "RelativeDocumentMoniker": "CourseManagementService\\CourseManagementService.http",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\CourseManagementService.http",
+              "RelativeToolTip": "CourseManagementService\\CourseManagementService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-15T19:08:29.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240715194235_updatedmodel.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240715194235_updatedmodel.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\20240715194235_updatedmodel.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\20240715194235_updatedmodel.cs",
+              "RelativeToolTip": "CourseManagementService\\Migrations\\20240715194235_updatedmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:42:36.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BatchManagementContext.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementContext.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\BatchManagementContext.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementContext.cs",
+              "RelativeToolTip": "BatchManagementService\\BatchManagementContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:43:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "LoginService\\Model\\Login.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Model\\Login.cs",
+              "RelativeToolTip": "LoginService\\Model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:38:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "LoginService\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "LoginService\\Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:57:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:57:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserValidationClient.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
+              "RelativeDocumentMoniker": "LoginService\\Services\\UserValidationClient.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Services\\UserValidationClient.cs",
+              "RelativeToolTip": "LoginService\\Services\\UserValidationClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:21:18.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserValidationClient.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Services\\IUserValidationClient.cs",
+              "RelativeDocumentMoniker": "LoginService\\Services\\IUserValidationClient.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\Services\\IUserValidationClient.cs",
+              "RelativeToolTip": "LoginService\\Services\\IUserValidationClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:43:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Feedbackrepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Repositories\\Feedbackrepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:47:17.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Repositories\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:46:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagementService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\TraningManagementSystem\\UserManagementService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagementService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T03:57:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FeedbackDto.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Model\\FeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:23:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Model\\Feedback.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Model\\Feedback.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Model\\Feedback.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:34:56.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Program.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Program.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Program.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:59:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240714191206_InitislCreate.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\Migrations\\20240714191206_InitislCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:12:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedbackContext.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackContext.cs",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\FeedbackContext.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackContext.cs",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\FeedbackContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:37:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FeedbackAndAssessmentService.csproj",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+              "RelativeDocumentMoniker": "FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+              "ToolTip": "C:\\TraningManagementSystem\\FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+              "RelativeToolTip": "FeedbackAndAssessmentService\\FeedbackAndAssessmentService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T18:32:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BatchManagementService.csproj",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
+              "RelativeDocumentMoniker": "BatchManagementService\\BatchManagementService.csproj",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\BatchManagementService.csproj",
+              "RelativeToolTip": "BatchManagementService\\BatchManagementService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T06:05:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BatchEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
+              "RelativeToolTip": "BatchManagementService\\Rrepositories\\BatchEnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:18:54.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IBatchEnrollmentRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
+              "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchEnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:13:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IBatchRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchRepository.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Rrepositories\\IBatchRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Rrepositories\\IBatchRepository.cs",
+              "RelativeToolTip": "BatchManagementService\\Rrepositories\\IBatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:21.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240714090207_Initial-Create.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
+              "RelativeDocumentMoniker": "BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
+              "RelativeToolTip": "BatchManagementService\\Migrations\\20240714090207_Initial-Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:02:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginService.http",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginService.http",
+              "RelativeDocumentMoniker": "LoginService\\LoginService.http",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginService.http",
+              "RelativeToolTip": "LoginService\\LoginService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-12T17:42:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IDailyTaskRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\IDailyTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:59:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DailyTaskRepository.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
+              "RelativeToolTip": "CourseManagementService\\Repositories\\DailyTaskRepository\\DailyTaskRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:11:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CourseManagementContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
+              "RelativeToolTip": "CourseManagementService\\Migrations\\CourseManagementContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T23:50:42.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IDailyTaskService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\IDailyTaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:24:59.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DailyTaskService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\DailyTaskService\\DailyTaskService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:26:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseService\\CourseService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\CourseService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:21:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\ICourseService.cs",
+              "RelativeDocumentMoniker": "CourseManagementService\\Services\\CourseService\\ICourseService.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\CourseManagementService\\Services\\CourseService\\ICourseService.cs",
+              "RelativeToolTip": "CourseManagementService\\Services\\CourseService\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:19:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserValidationClientTest.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UserValidationClientTest.cs",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\UserValidationClientTest.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\UserValidationClientTest.cs",
+              "RelativeToolTip": "LoginServiceUnitTesting\\UserValidationClientTest.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwEsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:49:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginRepositoryTests.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginRepositoryTests.cs",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginRepositoryTests.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginRepositoryTests.cs",
+              "RelativeToolTip": "LoginServiceUnitTesting\\LoginRepositoryTests.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:31:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
+              "RelativeDocumentMoniker": "LoginService\\LoginContext.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\LoginContext.cs",
+              "RelativeToolTip": "LoginService\\LoginContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:40:12.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginServiceUnitTesting.csproj",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "RelativeToolTip": "LoginServiceUnitTesting\\LoginServiceUnitTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T11:44:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 63,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
+              "RelativeDocumentMoniker": "LoginService\\DataTransferObject\\User.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginService\\DataTransferObject\\User.cs",
+              "RelativeToolTip": "LoginService\\DataTransferObject\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:16:49.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginControllerTest.cs",
+              "DocumentMoniker": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "RelativeDocumentMoniker": "LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "ToolTip": "C:\\TraningManagementSystem\\LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "RelativeToolTip": "LoginServiceUnitTesting\\LoginControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAOBvwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:01:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
               "Title": "ILogin.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Repositories\\ILogin.cs",
               "RelativeDocumentMoniker": "LoginService\\Repositories\\ILogin.cs",
@@ -1129,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Services\\UserService.cs",
@@ -1141,7 +1187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Services\\IUserService.cs",
@@ -1153,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Repositories\\UserRepository.cs",
@@ -1165,7 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Repositories\\IUserRepository.cs",
@@ -1177,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\appsettings.json",
               "RelativeDocumentMoniker": "LoginService\\appsettings.json",
@@ -1189,7 +1235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\DTO\\Login.cs",
               "RelativeDocumentMoniker": "UserManagementService\\DTO\\Login.cs",
@@ -1201,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\appsettings.json",
               "RelativeDocumentMoniker": "UserManagementService\\appsettings.json",
@@ -1213,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\LoginService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LoginService\\Controllers\\WeatherForecastController.cs",
@@ -1225,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "20240712143741_InitialCreate.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\Migrations\\20240712143741_InitialCreate.cs",
               "RelativeDocumentMoniker": "UserManagementService\\Migrations\\20240712143741_InitialCreate.cs",
@@ -1237,7 +1283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "UserContext.cs",
               "DocumentMoniker": "C:\\TraningManagementSystem\\UserManagementService\\UserContext.cs",
               "RelativeDocumentMoniker": "UserManagementService\\UserContext.cs",

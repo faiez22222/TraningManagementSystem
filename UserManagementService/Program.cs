@@ -21,6 +21,16 @@ builder.Services.AddDbContext<UserContext>(x =>
 x.UseSqlServer("data source=DESKTOP-TIC5DM4\\SQLEXPRESS;Database=AdministratorDB;Integrated Security=SSPI ; TrustServerCertificate=True;"));
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddCors(option =>
+{
+    option.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyHeader();
+            builder.AllowAnyMethod();
+            builder.AllowAnyOrigin();
+        });
+});
 builder.Services.AddSwaggerGen(
     c =>
     {
@@ -40,6 +50,7 @@ if (app.Environment.IsDevelopment())
 // Configure the HTTP request pipeline.
 
 app.UseAuthorization();
+app.UseCors("AllowAll");
 
 app.MapControllers();
 

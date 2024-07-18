@@ -14,13 +14,20 @@ namespace CourseManagementService.Repositories.CourseRepository
 
         public async Task<Course> GetCourseByIdAsync(int id)
         {
-            return await _context.Courses.Include(c => c.CourseCalendar).ThenInclude(cc => cc.DailyTasks).FirstOrDefaultAsync(c => c.Id == id);
+            return await _context.Courses
+                .Include(c => c.CourseCalendars)
+                .ThenInclude(cc => cc.DailyTasks)
+                .FirstOrDefaultAsync(c => c.Id == id);
         }
 
         public async Task<IEnumerable<Course>> GetAllCoursesAsync()
         {
-            return await _context.Courses.Include(c => c.CourseCalendar).ThenInclude(cc => cc.DailyTasks).ToListAsync();
+            return await _context.Courses
+                .Include(c => c.CourseCalendars)
+                .ThenInclude(cc => cc.DailyTasks)
+                .ToListAsync();
         }
+
 
         public async Task AddCourseAsync(Course course)
         {

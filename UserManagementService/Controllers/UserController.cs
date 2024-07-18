@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UserManagementService.Model;
 using UserManagementService.DTO;
+using Microsoft.AspNetCore.Cors;
 
 namespace UserManagementService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;

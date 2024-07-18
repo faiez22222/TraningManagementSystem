@@ -16,20 +16,21 @@ namespace CourseManagementService
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Course to CourseCalendar relationship (one-to-one, optional)
-            modelBuilder.Entity<Course>()
-                .HasOne(c => c.CourseCalendar)
-                .WithOne()
-                .HasForeignKey<CourseCalendar>(cc => cc.CourseId)
-                .OnDelete(DeleteBehavior.Cascade); // Configure delete behavior
+            base.OnModelCreating(modelBuilder);
 
-            // CourseCalendar to DailyTask relationship (one-to-many)
+            // Configuring the one-to-many relationship between Course and CourseCalendar
+            modelBuilder.Entity<Course>()
+                .HasMany(c => c.CourseCalendars)
+                .WithOne()
+                .HasForeignKey(cc => cc.CourseId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            // Configuring the one-to-many relationship between CourseCalendar and DailyTask
             modelBuilder.Entity<CourseCalendar>()
                 .HasMany(cc => cc.DailyTasks)
                 .WithOne()
                 .HasForeignKey(dt => dt.CourseCalendarId)
-                .OnDelete(DeleteBehavior.Cascade); // Configure delete behavior
-
-            base.OnModelCreating(modelBuilder);
+                 .OnDelete(DeleteBehavior.Cascade);
         }
 
 

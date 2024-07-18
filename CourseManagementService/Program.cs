@@ -22,6 +22,16 @@ builder.Services.AddScoped<IDailyTaskRepository, DailyTaskRepository>();
 builder.Services.AddScoped<ICourseService, CourseService>();
 builder.Services.AddScoped<ICourseCalendarService , CourseCalendarService>();
 builder.Services.AddScoped<IDailyTaskService, DailyTaskService>();
+builder.Services.AddCors(option =>
+{
+    option.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyHeader();
+            builder.AllowAnyMethod();
+            builder.AllowAnyOrigin();
+        });
+});
 builder.Services.AddSwaggerGen(
     c =>
     {
@@ -42,6 +52,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Configure the HTTP request pipeline.
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 

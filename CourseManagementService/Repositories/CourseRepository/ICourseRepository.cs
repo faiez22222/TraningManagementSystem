@@ -1,4 +1,5 @@
 ﻿using CourseManagementService.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace CourseManagementService.Repositories.CourseRepository
 {

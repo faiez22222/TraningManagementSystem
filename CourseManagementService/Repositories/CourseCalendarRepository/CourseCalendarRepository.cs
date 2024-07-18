@@ -35,6 +35,11 @@ namespace CourseManagementService.Repositories.CourseCalendarRepository
             _context.CourseCalendars.Remove(courseCalendar);
             await _context.SaveChangesAsync();
         }
+
+        public async Task<int> GetBatchCountAsync(int courseId)
+        {
+            return await _context.CourseCalendars.CountAsync(cc => cc.CourseId == courseId);
+        }
     }
 
 }

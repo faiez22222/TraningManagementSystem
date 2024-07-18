@@ -6,7 +6,7 @@ namespace BatchManagementService.Model
     {
         public int Id { get; set; } 
         public string BatchName { get; set; }    
-        public int CourseId { get; set; }   
+        public int CourseCalendarId { get; set; }   
 
         public string BatchTutor {get; set; }
         [AllowNull]

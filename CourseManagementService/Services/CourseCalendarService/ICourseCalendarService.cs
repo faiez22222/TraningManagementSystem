@@ -8,5 +8,7 @@ namespace CourseManagementService.Services.CourseCalendarService
         Task AddCourseCalendarAsync(CourseCalendar courseCalendar);
         Task UpdateCourseCalendarAsync(CourseCalendar courseCalendar);
         Task DeleteCourseCalendarAsync(int id);
+
+        Task<int> GetBatchCountAsync(int courseId);
     }
 }

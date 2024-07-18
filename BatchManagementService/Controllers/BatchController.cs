@@ -1,6 +1,7 @@
 ﻿using BatchManagementService.Model;
 using BatchManagementService.Repositories;
 using BatchManagementService.Rrepositories;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace BatchManagementService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors]
     public class BatchController : ControllerBase
     {
         private readonly IBatchRepository _batchRepository;

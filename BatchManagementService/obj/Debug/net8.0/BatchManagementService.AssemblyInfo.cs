@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatchManagementService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0287d4dd03fece72d1f7d1e4c1777133f6a7754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0695d81f64d3aca894e6f5c7175740490ffc620")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatchManagementService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatchManagementService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
